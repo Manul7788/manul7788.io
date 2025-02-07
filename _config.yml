@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Manul7788
+title: condainstallMJX
 email:
 description: "Cogito ergo doleo."
 twitter_username: N/A
-github_username: Manul7788
+github_username: condainstallMJX
 minimal_mistakes_skin: dark
 search: true
 
