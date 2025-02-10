@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: condainstallMJX
+title: conda install MJX
 email:
 description: "Cogito ergo doleo."
 twitter_username: N/A
@@ -55,7 +55,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Manul7788"
+  name   : "MJX"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Pretending to code since 2023."
   links:
@@ -67,7 +67,7 @@ author:
     #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://manul7788.github.io/"
+      url: "https://condainstallmjx.github.io/"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
